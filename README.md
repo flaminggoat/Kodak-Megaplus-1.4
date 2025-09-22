@@ -65,27 +65,28 @@ Vout = 1.25*(1+1500/191)+50e-6*1500 = 11.14V
   <img src="https://raw.githubusercontent.com/flaminggoat/Kodak-Megaplus-1.4/refs/heads/main/images/PXL_20250818_185727769.jpg" width="150" style="margin:5px;" />
   <img src="https://raw.githubusercontent.com/flaminggoat/Kodak-Megaplus-1.4/refs/heads/main/images/PXL_20250818_185929709.jpg" width="150" style="margin:5px;" />
   <img src="https://raw.githubusercontent.com/flaminggoat/Kodak-Megaplus-1.4/refs/heads/main/images/PXL_20250818_185934422.jpg" width="150" style="margin:5px;" />
-  <img src="https://raw.githubusercontent.com/flaminggoat/Kodak-Megaplus-1.4/refs/heads/main/images/PXL_20250818_190122588.jpg" width="150" style="margin:5px;" />
 </div><div>
+  <img src="https://raw.githubusercontent.com/flaminggoat/Kodak-Megaplus-1.4/refs/heads/main/images/PXL_20250818_190122588.jpg" width="150" style="margin:5px;" />
   <img src="https://raw.githubusercontent.com/flaminggoat/Kodak-Megaplus-1.4/refs/heads/main/images/PXL_20250818_190127985.jpg" width="150" style="margin:5px;" />
   <img src="https://raw.githubusercontent.com/flaminggoat/Kodak-Megaplus-1.4/refs/heads/main/images/PXL_20250818_190130815.jpg" width="150" style="margin:5px;" />
   <img src="https://raw.githubusercontent.com/flaminggoat/Kodak-Megaplus-1.4/refs/heads/main/images/PXL_20250818_190154288.jpg" width="150" style="margin:5px;" />
   <img src="https://raw.githubusercontent.com/flaminggoat/Kodak-Megaplus-1.4/refs/heads/main/images/PXL_20250818_190215125.jpg" width="150" style="margin:5px;" />
+</div><div>
   <img src="https://raw.githubusercontent.com/flaminggoat/Kodak-Megaplus-1.4/refs/heads/main/images/PXL_20250818_190425678.jpg" width="150" style="margin:5px;" />
   <img src="https://raw.githubusercontent.com/flaminggoat/Kodak-Megaplus-1.4/refs/heads/main/images/PXL_20250818_190634217.MP.jpg" width="150" style="margin:5px;" />
-</div><div>
   <img src="https://raw.githubusercontent.com/flaminggoat/Kodak-Megaplus-1.4/refs/heads/main/images/PXL_20250818_190635932.jpg" width="150" style="margin:5px;" />
   <img src="https://raw.githubusercontent.com/flaminggoat/Kodak-Megaplus-1.4/refs/heads/main/images/PXL_20250818_192740050.jpg" width="150" style="margin:5px;" />
   <img src="https://raw.githubusercontent.com/flaminggoat/Kodak-Megaplus-1.4/refs/heads/main/images/PXL_20250818_193109478.jpg" width="150" style="margin:5px;" />
+</div><div>
   <img src="https://raw.githubusercontent.com/flaminggoat/Kodak-Megaplus-1.4/refs/heads/main/images/PXL_20250818_193125845.jpg" width="150" style="margin:5px;" />
   <img src="https://raw.githubusercontent.com/flaminggoat/Kodak-Megaplus-1.4/refs/heads/main/images/PXL_20250818_193807812.MP.jpg" width="150" style="margin:5px;" />
   <img src="https://raw.githubusercontent.com/flaminggoat/Kodak-Megaplus-1.4/refs/heads/main/images/PXL_20250818_193810757.jpg" width="150" style="margin:5px;" />
-</div><div>
   <img src="https://raw.githubusercontent.com/flaminggoat/Kodak-Megaplus-1.4/refs/heads/main/images/PXL_20250818_193952134.jpg" width="150" style="margin:5px;" />
   <img src="https://raw.githubusercontent.com/flaminggoat/Kodak-Megaplus-1.4/refs/heads/main/images/PXL_20250818_194245874.MP.jpg" width="150" style="margin:5px;" />
+</div><div>
   <img src="https://raw.githubusercontent.com/flaminggoat/Kodak-Megaplus-1.4/refs/heads/main/images/PXL_20250818_212416040.jpg" width="150" style="margin:5px;" />
   <img src="https://raw.githubusercontent.com/flaminggoat/Kodak-Megaplus-1.4/refs/heads/main/images/PXL_20250903_220602243.jpg" width="150" style="margin:5px;" />
   <img src="https://raw.githubusercontent.com/flaminggoat/Kodak-Megaplus-1.4/refs/heads/main/images/PXL_20250913_173854060.jpg" width="150" style="margin:5px;" />
   <img src="https://raw.githubusercontent.com/flaminggoat/Kodak-Megaplus-1.4/refs/heads/main/images/PXL_20250914_130900320.jpg" width="150" style="margin:5px;" />
-</div><div>
 </div>
+
